@@ -22,3 +22,7 @@ Search Tree, Heaps, Binary Heaps, KD-Trees, and Quad Trees.
 Each module presents fundamental data structures and provides code examples
 demonstrating their applciation and performance. All data types are
 provided with sample code and unit tests.
+
+All code examples assumes a standard installation of Python 3.  Module 6,
+"Graph Representation", includes an example of a 3rd party library,
+pygraph, that you can install separately.
